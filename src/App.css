@@ -1,0 +1,9 @@
+.display {
+  display: flex;
+  
+}
+
+textarea{
+  width: 100%;
+  min-height: 130px;
+}
